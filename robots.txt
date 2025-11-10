@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ealbargonzalez.github.io/trendifyshop/sitemap.xml
